@@ -138,6 +138,7 @@ class Database:
                 "nSaldoProvisorio",
                 "nLimiteCreditoTotal",
                 "nSaldoDisponivel",
+                "valor_documento",
             ]
 
             for col in df.columns:
